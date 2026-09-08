@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Smart-Building-Operations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-Building-Operations?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Smart-Building-Operations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-Building-Operations?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smart-Building-Operations/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Smart-Building-Operations?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -62,40 +62,40 @@ Below is a comparative breakdown of top commercial smart building platforms, sor
 
 Sorted descending by GitHub star count. Each badge links directly to the repository's stargazers page.
 
-- **[Home Assistant Core](https://github.com/home-assistant/core)** [![GitHub stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers)  
+- **[Home Assistant Core](https://github.com/home-assistant/core)** [![GitHub_Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers)  
   Popular open-source home and building automation platform featuring 2000+ integrations, local-first control, automation engine, and privacy-centric design.
 
-- **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)  
+- **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)  
   Enterprise-grade open-source IoT platform for device management, telemetry data collection, real-time processing, rule-based automation, and smart building dashboards.
 
-- **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
+- **[Node-RED](https://github.com/node-red/node-red)** [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)  
   Low-code programming tool for event-driven applications, flow-based visual logic, and wiring together building automation hardware, sensors, and APIs.
 
-- **[MyEMS](https://github.com/MyEMS/myems)** [![GitHub stars](https://img.shields.io/github/stars/MyEMS/myems?style=social&color=white)](https://github.com/MyEMS/myems/stargazers)  
+- **[MyEMS](https://github.com/MyEMS/myems)** [![GitHub_Stars](https://img.shields.io/github/stars/MyEMS/myems?style=social&color=white)](https://github.com/MyEMS/myems/stargazers)  
   Industry-leading open-source Energy Management System aligned with ISO 50001. Supports collection, analysis, and reporting of electricity, water, gas, heating, cooling, and carbon emissions for commercial buildings and campuses.
 
-- **[DGIoT](https://github.com/dgiot/dgiot)** [![GitHub stars](https://img.shields.io/github/stars/dgiot/dgiot?style=social&color=white)](https://github.com/dgiot/dgiot/stargazers)  
+- **[DGIoT](https://github.com/dgiot/dgiot)** [![GitHub_Stars](https://img.shields.io/github/stars/dgiot/dgiot?style=social&color=white)](https://github.com/dgiot/dgiot/stargazers)  
   Lightweight open-source industrial IoT stack supporting hundreds of building and industrial automation protocols (BACnet, Modbus, OPC UA, MQTT) with SCADA components.
 
-- **[EnergyPlus](https://github.com/NREL/EnergyPlus)** [![GitHub stars](https://img.shields.io/github/stars/NREL/EnergyPlus?style=social&color=white)](https://github.com/NREL/EnergyPlus/stargazers)  
+- **[EnergyPlus](https://github.com/NREL/EnergyPlus)** [![GitHub_Stars](https://img.shields.io/github/stars/NREL/EnergyPlus?style=social&color=white)](https://github.com/NREL/EnergyPlus/stargazers)  
   NREL's flagship whole-building energy simulation program for modeling energy, water, HVAC, lighting, ventilation, and thermal performance in commercial structures.
 
-- **[BACnet Stack](https://github.com/bacnet-stack/bacnet-stack)** [![GitHub stars](https://img.shields.io/github/stars/bacnet-stack/bacnet-stack?style=social&color=white)](https://github.com/bacnet-stack/bacnet-stack/stargazers)  
+- **[BACnet Stack](https://github.com/bacnet-stack/bacnet-stack)** [![GitHub_Stars](https://img.shields.io/github/stars/bacnet-stack/bacnet-stack?style=social&color=white)](https://github.com/bacnet-stack/bacnet-stack/stargazers)  
   Open-source C protocol stack implementing the BACnet protocol for building automation networks, microcontrollers, and IoT gateway interfaces.
 
-- **[VOLTTRON](https://github.com/eclipse-volttron/volttron)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-volttron/volttron?style=social&color=white)](https://github.com/eclipse-volttron/volttron/stargazers)  
+- **[VOLTTRON](https://github.com/eclipse-volttron/volttron)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-volttron/volttron?style=social&color=white)](https://github.com/eclipse-volttron/volttron/stargazers)  
   Eclipse Foundation's agent-based platform for smart building control, energy analytics, fault detection, and distributed energy resource (DER) grid integration.
 
-- **[OpenStudio](https://github.com/NREL/OpenStudio)** [![GitHub stars](https://img.shields.io/github/stars/NREL/OpenStudio?style=social&color=white)](https://github.com/NREL/OpenStudio/stargazers)  
+- **[OpenStudio](https://github.com/NREL/OpenStudio)** [![GitHub_Stars](https://img.shields.io/github/stars/NREL/OpenStudio?style=social&color=white)](https://github.com/NREL/OpenStudio/stargazers)  
   Cross-platform software suite supporting building energy modeling, advanced HVAC analytics, and EnergyPlus workflow orchestrations.
 
-- **[OpenBMS](https://github.com/openbms/openbms)** [![GitHub stars](https://img.shields.io/github/stars/openbms/openbms?style=social&color=white)](https://github.com/openbms/openbms/stargazers)  
+- **[OpenBMS](https://github.com/openbms/openbms)** [![GitHub_Stars](https://img.shields.io/github/stars/openbms/openbms?style=social&color=white)](https://github.com/openbms/openbms/stargazers)  
   Community-driven, vendor-neutral Building Management System framework focused on open standards (BACnet, MQTT, Modbus) and modern web UI components.
 
-- **[Rosetta Home](https://github.com/rosetta-home/rosetta_home)** [![GitHub stars](https://img.shields.io/github/stars/rosetta-home/rosetta_home?style=social&color=white)](https://github.com/rosetta-home/rosetta_home/stargazers)  
+- **[Rosetta Home](https://github.com/rosetta-home/rosetta_home)** [![GitHub_Stars](https://img.shields.io/github/stars/rosetta-home/rosetta_home?style=social&color=white)](https://github.com/rosetta-home/rosetta_home/stargazers)  
   Offline-first building performance monitoring and automation platform with energy tracking, HVAC telemetry, and environment sensor integrations.
 
-- **[Colibri](https://github.com/dschachinger/colibri)** [![GitHub stars](https://img.shields.io/github/stars/dschachinger/colibri?style=social&color=white)](https://github.com/dschachinger/colibri/stargazers)  
+- **[Colibri](https://github.com/dschachinger/colibri)** [![GitHub_Stars](https://img.shields.io/github/stars/dschachinger/colibri?style=social&color=white)](https://github.com/dschachinger/colibri/stargazers)  
   Smart building energy management research project leveraging semantic building models (BIM/Ontology) for flexible energy optimization strategies.
 
 ---
