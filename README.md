@@ -42,65 +42,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Facilio](https://facilio.com/)**  
-
-  Connected CAFM / operations platform that unifies maintenance, helpdesk, vendor management, inspections, energy, and IoT data with no-code workflows and emerging AI agents.
-
-
-
-- **[BuildingMinds](https://buildingminds.com/)**  
-
-  Real-estate and building data platform focused on portfolio-level insights, sustainability, and operational performance.
-
-
-
-- **[BrainBox AI](https://brainboxai.com/)**  
-
-  AI-driven HVAC optimization platform (now part of Trane Technologies) that autonomously adjusts setpoints to reduce energy use and improve comfort.
-
-
-
-- **[Switch Automation](https://www.switchautomation.com/)**  
-
-  Cloud platform for smart building data aggregation, analytics, and operational intelligence across multi-site portfolios.
-
-
-
-- **[Infogrid](https://www.infogrid.io/)**  
-
-  IoT sensor + AI platform for facilities and building management, covering occupancy, environmental quality, energy, and compliance.
-
-
-
-- **[Enertiv](https://www.enertiv.com/)**  
-
-  Building operations and energy intelligence platform focused on real-time monitoring, fault detection, and cost reduction.
-
-
-
-- **[Spaceti](https://www.spaceti.com/)**  
-
-  Smart workplace and building platform combining sensors, space analytics, and occupant experience tools.
-
-
-
-- **[GridPoint](https://www.gridpoint.com/)**  
-
-  Energy management and building automation platform for commercial facilities, with strong demand-response and optimization capabilities.
-
-
-
-- **[Clockworks Analytics, BuildingIQ](https://clockworksanalytics.com/)**  
-
-  Analytics-focused platforms specializing in fault detection & diagnostics (FDD), energy optimization, and continuous commissioning.
-
-
-
-- **[Other smart building platforms](https://facilio.com/)**  
-
-  Solutions from major automation vendors (Siemens Building X, Johnson Controls OpenBlue, Schneider EcoStruxure, Honeywell Forge) and specialized players that provide overlapping operations and energy capabilities.
+| Product | Description | Starting Tier Price | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Facilio](https://facilio.com/)** | Connected CAFM / operations platform unifying maintenance, helpdesk, vendor management, energy, and IoT data with no-code workflows and AI agents. | ~$10,000 / year (~$833 / month base enterprise tier) | 30-day free trial (full platform sandbox environment upon request) |
+| **[BuildingMinds](https://buildingminds.com/)** | Real-estate and building data platform focused on portfolio-level insights, sustainability (ESG), and operational performance. | €19.90 / building / month (~$21.50 / month) | 14-day free trial (access to dashboards, carbon tracking & ESG analytics) |
+| **[BrainBox AI](https://brainboxai.com/)** | AI-driven HVAC optimization platform that autonomously adjusts setpoints to reduce energy use and carbon emissions. | ~$0.25 / sq ft / year (~$0.02 / sq ft / month subscription) | Free Energy Efficiency Audit Report + 60-day risk-free pilot evaluation period |
+| **[Switch Automation](https://www.switchautomation.com/)** | Cloud platform for smart building data aggregation, analytics, and operational intelligence across multi-site portfolios. | ~$12,000 / year (~$0.05 / sq ft / year base portfolio tier) | 30-day proof-of-concept trial (includes guided sandbox demo & preliminary site data audit) |
+| **[Infogrid](https://www.infogrid.io/)** | IoT sensor + AI platform for facilities and building management, covering occupancy, indoor air quality, energy, and compliance. | ~$1,500 / site / year (plus $15–$30 upfront per sensor hardware) | 30-day pilot deployment trial (up to 25 IoT sensors provided for testing) |
+| **[Enertiv](https://www.enertiv.com/)** | Building operations and energy intelligence platform focused on real-time monitoring, fault detection, and cost reduction. | ~$0.01–$0.02 / sq ft / month for commercial ($1.00 / unit / month for residential) | 30-day proof-of-concept trial (includes live system demo & portfolio energy benchmark) |
+| **[Spaceti](https://www.spaceti.com/)** | Smart workplace and building platform combining occupancy sensors, space analytics, and occupant experience tools. | ~$99 / month (~$1,188 / year base plan) | 14-day free trial (access to occupancy analytics, workplace maps & sensor dashboards) |
+| **[GridPoint](https://www.gridpoint.com/)** | Energy management and building automation platform for commercial facilities, with strong demand-response and optimization capabilities. | ~$250 / site / month (Energy Management as a Service subscription model) | 90-day pilot trial program (includes free preliminary building energy analysis report) |
+| **[Clockworks Analytics](https://clockworksanalytics.com/)** | Analytics platform specializing in Fault Detection & Diagnostics (FDD), energy optimization, and continuous commissioning. | ~$0.02–$0.05 / sq ft / year (~$2,500 / year base entry tier) | 30-day proof-of-concept trial (includes FDD diagnostic audit & sample building setup) |
+| **[BuildingIQ](https://buildingiq.com/)** | Predictive HVAC energy optimization and building analytics software. | ~$1.00–$2.00 / sq m / year (~$10,000 / year initial deployment baseline) | 30-day pilot trial (limited to 1 HVAC air handling unit / 50,000 sq ft assessment) |
+| **[Siemens Building X](https://www.siemens.com/buildingx)** | Open, cloud-based smart building platform for energy management, operations, sustainability, and digital twins. | ~$150 / site / month (~$1,800 / year base application tier) | 6-month free trial (full feature access for 1 building site) |
+| **[Johnson Controls OpenBlue](https://www.johnsoncontrols.com/openblue)** | AI-powered building suite for facility management, energy tracking, indoor environmental quality, and security. | ~$15,000 / year (~$0.04 / sq ft / year base Enterprise Manager license) | 30-day proof-of-concept trial (guided virtual sandbox & energy baseline assessment) |
+| **[Schneider EcoStruxure](https://www.se.com/ecostruxure)** | IoT-enabled smart building architecture offering Building Advisor, Power Monitoring Expert, and HVAC analytics. | ~$0.015 / sq ft / month (~$1,800 / year base Building Advisor subscription) | 30-day trial environment access (includes downloadable Building Operation demo database) |
+| **[Honeywell Forge](https://www.honeywell.com/forge)** | Enterprise performance management platform for building operations, energy optimization, and predictive maintenance. | ~$65 / site / month (visitor & space management tier) up to enterprise portfolio scale | 14-day free trial (access to Forge Visitor & Space Manager modules, virtual walkthroughs) |
 
 
 
